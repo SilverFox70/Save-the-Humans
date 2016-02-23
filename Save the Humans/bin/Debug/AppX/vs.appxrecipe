@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WFB-LENOVO</Machine>
+    <WindowsUser>William</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>83366520-42b2-49c0-9378-5404b2588045</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2F90D05978DA59911F49F74F1425835BE335770DCFD3772FEB332878ACC8AF92</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>83366520-42b2-49c0-9378-5404b2588045_1.0.0.0_neutral__pe4vsf0t72evj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>83366520-42b2-49c0-9378-5404b2588045_pe4vsf0t72evj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>83366520-42b2-49c0-9378-5404b2588045</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=William</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-10T06:14:25.450</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2015-02-11T06:34:15.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-10T06:14:08.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-10T06:13:05.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-10T06:13:46.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-03T06:13:30.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-10T06:14:24.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.xr.xml">
+      <PackagePath>Save the Humans.xr.xml</PackagePath>
+      <Modified>2015-02-10T06:04:13.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\William\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-10T06:14:25.109</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
